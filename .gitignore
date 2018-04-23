@@ -1,0 +1,10 @@
+# IDE
+.DS_Store
+.idea
+
+# dependencies
+pricecloud/node_modules
+
+node_modules/
+~/node_modules/
+
